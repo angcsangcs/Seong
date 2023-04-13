@@ -1,2 +1,0 @@
-# Seong
-firsttest
